@@ -1,0 +1,15 @@
+package Segundo_Parcial;
+
+import java.util.Scanner;
+
+ @Elmer Antonio Soto Soto
+
+public class Ejecutor {
+    static Datos datos = new Datos();
+    
+    public static void main(String[] args) {
+        datos.Datos_persona();
+        datos.Mostrar_datos();
+    }
+    
+}
